@@ -1,4 +1,4 @@
-#Scrapy using Tor and Privoxy
+# Scrapy using Tor and Privoxy
 
 [Ethics in Web Scraping](https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01)
 
